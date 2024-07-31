@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    height: 95vh;
+    width:90%;
+    margin-left: 20px;
+
+    
+}
+.first{
+    width: 50%;
+
+}
+
+.cont{
+    display: flex;
+    justify-content: space-evenly;
+}
+.path{
+    margin-top: 10px;
+    margin-left: 20px;
+    color:#565959;
+}
+p{
+    margin-bottom: 10px;
+    font-size: 1.4rem;
+}
+.second{
+    width:50%;
+}
+.ratings{
+    height:5%;
+    width:30%;
+}
+h1{
+    font-size: 2.5rem;
+}
